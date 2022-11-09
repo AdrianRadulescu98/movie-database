@@ -1,4 +1,4 @@
-# movie-database - Radulescu Adrian-Razvan
+Movie Database
 
 Movie database using Spring boot
 
