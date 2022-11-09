@@ -1,6 +1,4 @@
-Movie Database
-
-Movie database using Spring boot
+#Movie Database using Spring Boot
 
 The application contains 5 classes: movies, screenwriters, actors, directors, genres.
 
