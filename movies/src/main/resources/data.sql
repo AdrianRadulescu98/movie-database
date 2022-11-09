@@ -1,1 +1,0 @@
-INSERT INTO GENRES(id, genre_Type) values (100, 'Thriller');
